@@ -1,1 +1,3 @@
-
+version: 2
+dependencies:
+- type: js  # looks at the root of your repo by default
